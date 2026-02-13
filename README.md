@@ -35,7 +35,7 @@ To move beyond just solving:
 
 
  🔗 LeetCode Profile  
-[→ View my progress here](https://leetcode.com/u/vaibhav_404/)
+[→ View my progress here](https://leetcode.com/u/vaibhavpathak_vp/)
 
 
 
